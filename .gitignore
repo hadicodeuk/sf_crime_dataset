@@ -1,2 +1,4 @@
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
 .sf_crime-checkpoint.ipynb
-/2 Jupyter Notebook/.ipynb_checkpoints/
+2 Jupyter Notebook/.ipynb_checkpoints/
